@@ -32,7 +32,7 @@ nav ul {
     list-style: none;
     gap: 50px;
     justify-content: space-around;
-    padding-right: 40px ;
+    padding-right: 40px;
 }
 
 nav {
@@ -122,6 +122,7 @@ footer {
     text-align: center;
     font-size: 12px;
     color: lightgrey;
+    padding: 20px;
 }
 
 
